@@ -1,0 +1,424 @@
+Country{id=1, countryCode='AD', englishName='Andorra',                  timZone='Europe/Andorra'}
+Country{id=2, countryCode='AE', englishName='United Arab Emirates',                  timZone='Asia/Dubai'}
+Country{id=3, countryCode='AF', englishName='Afghanistan',                  timZone='Asia/Kabul'}
+Country{id=4, countryCode='AG', englishName='Antigua and Barbuda',                  timZone='America/Antigua'}
+Country{id=5, countryCode='AI', englishName='Anguilla',                  timZone='America/Anguilla'}
+Country{id=6, countryCode='AL', englishName='Albania',                  timZone='Europe/Tirane'}
+Country{id=7, countryCode='AM', englishName='Armenia',                  timZone='Asia/Yerevan'}
+Country{id=8, countryCode='AO', englishName='Angola',                  timZone='Africa/Luanda'}
+Country{id=9, countryCode='AQ', englishName='Antarctica',                  timZone='Antarctica/McMurdo'}
+Country{id=9, countryCode='AQ', englishName='Antarctica',                  timZone='Antarctica/Casey'}
+Country{id=9, countryCode='AQ', englishName='Antarctica',                  timZone='Antarctica/Davis'}
+Country{id=9, countryCode='AQ', englishName='Antarctica',                  timZone='Antarctica/DumontDUrville'}
+Country{id=9, countryCode='AQ', englishName='Antarctica',                  timZone='Antarctica/Mawson'}
+Country{id=9, countryCode='AQ', englishName='Antarctica',                  timZone='Antarctica/Palmer'}
+Country{id=9, countryCode='AQ', englishName='Antarctica',                  timZone='Antarctica/Rothera'}
+Country{id=9, countryCode='AQ', englishName='Antarctica',                  timZone='Antarctica/Syowa'}
+Country{id=9, countryCode='AQ', englishName='Antarctica',                  timZone='Antarctica/Troll'}
+Country{id=9, countryCode='AQ', englishName='Antarctica',                  timZone='Antarctica/Vostok'}
+Country{id=10, countryCode='AR', englishName='Argentina',                  timZone='America/Argentina/Buenos_Aires'}
+Country{id=10, countryCode='AR', englishName='Argentina',                  timZone='America/Argentina/Cordoba'}
+Country{id=10, countryCode='AR', englishName='Argentina',                  timZone='America/Argentina/Salta'}
+Country{id=10, countryCode='AR', englishName='Argentina',                  timZone='America/Argentina/Jujuy'}
+Country{id=10, countryCode='AR', englishName='Argentina',                  timZone='America/Argentina/Tucuman'}
+Country{id=10, countryCode='AR', englishName='Argentina',                  timZone='America/Argentina/Catamarca'}
+Country{id=10, countryCode='AR', englishName='Argentina',                  timZone='America/Argentina/La_Rioja'}
+Country{id=10, countryCode='AR', englishName='Argentina',                  timZone='America/Argentina/San_Juan'}
+Country{id=10, countryCode='AR', englishName='Argentina',                  timZone='America/Argentina/Mendoza'}
+Country{id=10, countryCode='AR', englishName='Argentina',                  timZone='America/Argentina/San_Luis'}
+Country{id=10, countryCode='AR', englishName='Argentina',                  timZone='America/Argentina/Rio_Gallegos'}
+Country{id=10, countryCode='AR', englishName='Argentina',                  timZone='America/Argentina/Ushuaia'}
+Country{id=11, countryCode='AS', englishName='American Samoa',                  timZone='Pacific/Pago_Pago'}
+Country{id=12, countryCode='AT', englishName='Austria',                  timZone='Europe/Vienna'}
+Country{id=13, countryCode='AU', englishName='Australia',                  timZone='Australia/Lord_Howe'}
+Country{id=13, countryCode='AU', englishName='Australia',                  timZone='Antarctica/Macquarie'}
+Country{id=13, countryCode='AU', englishName='Australia',                  timZone='Australia/Hobart'}
+Country{id=13, countryCode='AU', englishName='Australia',                  timZone='Australia/Currie'}
+Country{id=13, countryCode='AU', englishName='Australia',                  timZone='Australia/Melbourne'}
+Country{id=13, countryCode='AU', englishName='Australia',                  timZone='Australia/Sydney'}
+Country{id=13, countryCode='AU', englishName='Australia',                  timZone='Australia/Broken_Hill'}
+Country{id=13, countryCode='AU', englishName='Australia',                  timZone='Australia/Brisbane'}
+Country{id=13, countryCode='AU', englishName='Australia',                  timZone='Australia/Lindeman'}
+Country{id=13, countryCode='AU', englishName='Australia',                  timZone='Australia/Adelaide'}
+Country{id=13, countryCode='AU', englishName='Australia',                  timZone='Australia/Darwin'}
+Country{id=13, countryCode='AU', englishName='Australia',                  timZone='Australia/Perth'}
+Country{id=13, countryCode='AU', englishName='Australia',                  timZone='Australia/Eucla'}
+Country{id=14, countryCode='AW', englishName='Aruba',                  timZone='America/Aruba'}
+Country{id=15, countryCode='AX', englishName='�land Islands',                  timZone='Europe/Mariehamn'}
+Country{id=16, countryCode='AZ', englishName='Azerbaijan',                  timZone='Asia/Baku'}
+Country{id=17, countryCode='BA', englishName='Bosnia and Herzegovina',                  timZone='Europe/Sarajevo'}
+Country{id=18, countryCode='BB', englishName='Barbados',                  timZone='America/Barbados'}
+Country{id=19, countryCode='BD', englishName='Bangladesh',                  timZone='Asia/Dhaka'}
+Country{id=20, countryCode='BE', englishName='Belgium',                  timZone='Europe/Brussels'}
+Country{id=21, countryCode='BF', englishName='Burkina Faso',                  timZone='Africa/Ouagadougou'}
+Country{id=22, countryCode='BG', englishName='Bulgaria',                  timZone='Europe/Sofia'}
+Country{id=23, countryCode='BH', englishName='Bahrain',                  timZone='Asia/Bahrain'}
+Country{id=24, countryCode='BI', englishName='Burundi',                  timZone='Africa/Bujumbura'}
+Country{id=25, countryCode='BJ', englishName='Benin',                  timZone='Africa/Porto-Novo'}
+Country{id=26, countryCode='BL', englishName='Saint Barth�lemy',                  timZone='America/St_Barthelemy'}
+Country{id=27, countryCode='BM', englishName='Bermuda',                  timZone='Atlantic/Bermuda'}
+Country{id=28, countryCode='BN', englishName='Brunei Darussalam',                  timZone='Asia/Brunei'}
+Country{id=29, countryCode='BO', englishName='Bolivia',                  timZone='America/La_Paz'}
+Country{id=30, countryCode='BQ', englishName='Caribbean Netherlands ',                  timZone='America/Kralendijk'}
+Country{id=31, countryCode='BR', englishName='Brazil',                  timZone='America/Noronha'}
+Country{id=31, countryCode='BR', englishName='Brazil',                  timZone='America/Belem'}
+Country{id=31, countryCode='BR', englishName='Brazil',                  timZone='America/Fortaleza'}
+Country{id=31, countryCode='BR', englishName='Brazil',                  timZone='America/Recife'}
+Country{id=31, countryCode='BR', englishName='Brazil',                  timZone='America/Araguaina'}
+Country{id=31, countryCode='BR', englishName='Brazil',                  timZone='America/Maceio'}
+Country{id=31, countryCode='BR', englishName='Brazil',                  timZone='America/Bahia'}
+Country{id=31, countryCode='BR', englishName='Brazil',                  timZone='America/Sao_Paulo'}
+Country{id=31, countryCode='BR', englishName='Brazil',                  timZone='America/Campo_Grande'}
+Country{id=31, countryCode='BR', englishName='Brazil',                  timZone='America/Cuiaba'}
+Country{id=31, countryCode='BR', englishName='Brazil',                  timZone='America/Santarem'}
+Country{id=31, countryCode='BR', englishName='Brazil',                  timZone='America/Porto_Velho'}
+Country{id=31, countryCode='BR', englishName='Brazil',                  timZone='America/Boa_Vista'}
+Country{id=31, countryCode='BR', englishName='Brazil',                  timZone='America/Manaus'}
+Country{id=31, countryCode='BR', englishName='Brazil',                  timZone='America/Eirunepe'}
+Country{id=31, countryCode='BR', englishName='Brazil',                  timZone='America/Rio_Branco'}
+Country{id=32, countryCode='BS', englishName='Bahamas',                  timZone='America/Nassau'}
+Country{id=33, countryCode='BT', englishName='Bhutan',                  timZone='Asia/Thimphu'}
+Country{id=35, countryCode='BW', englishName='Botswana',                  timZone='Africa/Gaborone'}
+Country{id=36, countryCode='BY', englishName='Belarus',                  timZone='Europe/Minsk'}
+Country{id=37, countryCode='BZ', englishName='Belize',                  timZone='America/Belize'}
+Country{id=38, countryCode='CA', englishName='Canada',                  timZone='America/St_Johns'}
+Country{id=38, countryCode='CA', englishName='Canada',                  timZone='America/Halifax'}
+Country{id=38, countryCode='CA', englishName='Canada',                  timZone='America/Glace_Bay'}
+Country{id=38, countryCode='CA', englishName='Canada',                  timZone='America/Moncton'}
+Country{id=38, countryCode='CA', englishName='Canada',                  timZone='America/Goose_Bay'}
+Country{id=38, countryCode='CA', englishName='Canada',                  timZone='America/Blanc-Sablon'}
+Country{id=38, countryCode='CA', englishName='Canada',                  timZone='America/Toronto'}
+Country{id=38, countryCode='CA', englishName='Canada',                  timZone='America/Nipigon'}
+Country{id=38, countryCode='CA', englishName='Canada',                  timZone='America/Thunder_Bay'}
+Country{id=38, countryCode='CA', englishName='Canada',                  timZone='America/Iqaluit'}
+Country{id=38, countryCode='CA', englishName='Canada',                  timZone='America/Pangnirtung'}
+Country{id=38, countryCode='CA', englishName='Canada',                  timZone='America/Atikokan'}
+Country{id=38, countryCode='CA', englishName='Canada',                  timZone='America/Winnipeg'}
+Country{id=38, countryCode='CA', englishName='Canada',                  timZone='America/Rainy_River'}
+Country{id=38, countryCode='CA', englishName='Canada',                  timZone='America/Resolute'}
+Country{id=38, countryCode='CA', englishName='Canada',                  timZone='America/Rankin_Inlet'}
+Country{id=38, countryCode='CA', englishName='Canada',                  timZone='America/Regina'}
+Country{id=38, countryCode='CA', englishName='Canada',                  timZone='America/Swift_Current'}
+Country{id=38, countryCode='CA', englishName='Canada',                  timZone='America/Edmonton'}
+Country{id=38, countryCode='CA', englishName='Canada',                  timZone='America/Cambridge_Bay'}
+Country{id=38, countryCode='CA', englishName='Canada',                  timZone='America/Yellowknife'}
+Country{id=38, countryCode='CA', englishName='Canada',                  timZone='America/Inuvik'}
+Country{id=38, countryCode='CA', englishName='Canada',                  timZone='America/Creston'}
+Country{id=38, countryCode='CA', englishName='Canada',                  timZone='America/Dawson_Creek'}
+Country{id=38, countryCode='CA', englishName='Canada',                  timZone='America/Fort_Nelson'}
+Country{id=38, countryCode='CA', englishName='Canada',                  timZone='America/Vancouver'}
+Country{id=38, countryCode='CA', englishName='Canada',                  timZone='America/Whitehorse'}
+Country{id=38, countryCode='CA', englishName='Canada',                  timZone='America/Dawson'}
+Country{id=39, countryCode='CC', englishName='Cocos (Keeling) Islands',                  timZone='Indian/Cocos'}
+Country{id=40, countryCode='CD', englishName='"Congo',                  timZone='Africa/Kinshasa'}
+Country{id=40, countryCode='CD', englishName='"Congo',                  timZone='Africa/Lubumbashi'}
+Country{id=41, countryCode='CF', englishName='Central African Republic',                  timZone='Africa/Bangui'}
+Country{id=42, countryCode='CG', englishName='Congo',                  timZone='Africa/Brazzaville'}
+Country{id=43, countryCode='CH', englishName='Switzerland',                  timZone='Europe/Zurich'}
+Country{id=44, countryCode='CI', englishName='C�te d'Ivoire',                  timZone='Africa/Abidjan'}
+Country{id=45, countryCode='CK', englishName='Cook Islands',                  timZone='Pacific/Rarotonga'}
+Country{id=46, countryCode='CL', englishName='Chile',                  timZone='America/Santiago'}
+Country{id=46, countryCode='CL', englishName='Chile',                  timZone='America/Punta_Arenas'}
+Country{id=46, countryCode='CL', englishName='Chile',                  timZone='Pacific/Easter'}
+Country{id=47, countryCode='CM', englishName='Cameroon',                  timZone='Africa/Douala'}
+Country{id=48, countryCode='CN', englishName='China',                  timZone='Asia/Shanghai'}
+Country{id=48, countryCode='CN', englishName='China',                  timZone='Asia/Urumqi'}
+Country{id=49, countryCode='CO', englishName='Colombia',                  timZone='America/Bogota'}
+Country{id=50, countryCode='CR', englishName='Costa Rica',                  timZone='America/Costa_Rica'}
+Country{id=51, countryCode='CU', englishName='Cuba',                  timZone='America/Havana'}
+Country{id=52, countryCode='CV', englishName='Cape Verde',                  timZone='Atlantic/Cape_Verde'}
+Country{id=53, countryCode='CW', englishName='Cura�ao',                  timZone='America/Curacao'}
+Country{id=54, countryCode='CX', englishName='Christmas Island',                  timZone='Indian/Christmas'}
+Country{id=55, countryCode='CY', englishName='Cyprus',                  timZone='Asia/Nicosia'}
+Country{id=55, countryCode='CY', englishName='Cyprus',                  timZone='Asia/Famagusta'}
+Country{id=56, countryCode='CZ', englishName='Czech Republic',                  timZone='Europe/Prague'}
+Country{id=57, countryCode='DE', englishName='Germany',                  timZone='Europe/Berlin'}
+Country{id=57, countryCode='DE', englishName='Germany',                  timZone='Europe/Busingen'}
+Country{id=58, countryCode='DJ', englishName='Djibouti',                  timZone='Africa/Djibouti'}
+Country{id=59, countryCode='DK', englishName='Denmark',                  timZone='Europe/Copenhagen'}
+Country{id=60, countryCode='DM', englishName='Dominica',                  timZone='America/Dominica'}
+Country{id=61, countryCode='DO', englishName='Dominican Republic',                  timZone='America/Santo_Domingo'}
+Country{id=62, countryCode='DZ', englishName='Algeria',                  timZone='Africa/Algiers'}
+Country{id=63, countryCode='EC', englishName='Ecuador',                  timZone='America/Guayaquil'}
+Country{id=63, countryCode='EC', englishName='Ecuador',                  timZone='Pacific/Galapagos'}
+Country{id=64, countryCode='EE', englishName='Estonia',                  timZone='Europe/Tallinn'}
+Country{id=65, countryCode='EG', englishName='Egypt',                  timZone='Africa/Cairo'}
+Country{id=66, countryCode='EH', englishName='Western Sahara',                  timZone='Africa/El_Aaiun'}
+Country{id=67, countryCode='ER', englishName='Eritrea',                  timZone='Africa/Asmara'}
+Country{id=68, countryCode='ES', englishName='Spain',                  timZone='Europe/Madrid'}
+Country{id=68, countryCode='ES', englishName='Spain',                  timZone='Africa/Ceuta'}
+Country{id=68, countryCode='ES', englishName='Spain',                  timZone='Atlantic/Canary'}
+Country{id=69, countryCode='ET', englishName='Ethiopia',                  timZone='Africa/Addis_Ababa'}
+Country{id=70, countryCode='FI', englishName='Finland',                  timZone='Europe/Helsinki'}
+Country{id=71, countryCode='FJ', englishName='Fiji',                  timZone='Pacific/Fiji'}
+Country{id=72, countryCode='FK', englishName='Falkland Islands',                  timZone='Atlantic/Stanley'}
+Country{id=73, countryCode='FM', englishName='"Micronesia',                  timZone='Pacific/Chuuk'}
+Country{id=73, countryCode='FM', englishName='"Micronesia',                  timZone='Pacific/Pohnpei'}
+Country{id=73, countryCode='FM', englishName='"Micronesia',                  timZone='Pacific/Kosrae'}
+Country{id=74, countryCode='FO', englishName='Faroe Islands',                  timZone='Atlantic/Faroe'}
+Country{id=75, countryCode='FR', englishName='France',                  timZone='Europe/Paris'}
+Country{id=76, countryCode='GA', englishName='Gabon',                  timZone='Africa/Libreville'}
+Country{id=77, countryCode='GB', englishName='United Kingdom',                  timZone='Europe/London'}
+Country{id=78, countryCode='GD', englishName='Grenada',                  timZone='America/Grenada'}
+Country{id=79, countryCode='GE', englishName='Georgia',                  timZone='Asia/Tbilisi'}
+Country{id=80, countryCode='GF', englishName='French Guiana',                  timZone='America/Cayenne'}
+Country{id=81, countryCode='GG', englishName='Guernsey',                  timZone='Europe/Guernsey'}
+Country{id=82, countryCode='GH', englishName='Ghana',                  timZone='Africa/Accra'}
+Country{id=83, countryCode='GI', englishName='Gibraltar',                  timZone='Europe/Gibraltar'}
+Country{id=84, countryCode='GL', englishName='Greenland',                  timZone='America/Godthab'}
+Country{id=84, countryCode='GL', englishName='Greenland',                  timZone='America/Danmarkshavn'}
+Country{id=84, countryCode='GL', englishName='Greenland',                  timZone='America/Scoresbysund'}
+Country{id=84, countryCode='GL', englishName='Greenland',                  timZone='America/Thule'}
+Country{id=85, countryCode='GM', englishName='Gambia',                  timZone='Africa/Banjul'}
+Country{id=86, countryCode='GN', englishName='Guinea',                  timZone='Africa/Conakry'}
+Country{id=87, countryCode='GP', englishName='Guadeloupe',                  timZone='America/Guadeloupe'}
+Country{id=88, countryCode='GQ', englishName='Equatorial Guinea',                  timZone='Africa/Malabo'}
+Country{id=89, countryCode='GR', englishName='Greece',                  timZone='Europe/Athens'}
+Country{id=90, countryCode='GS', englishName='South Georgia and the South Sandwich Islands',                  timZone='Atlantic/South_Georgia'}
+Country{id=91, countryCode='GT', englishName='Guatemala',                  timZone='America/Guatemala'}
+Country{id=92, countryCode='GU', englishName='Guam',                  timZone='Pacific/Guam'}
+Country{id=93, countryCode='GW', englishName='Guinea-Bissau',                  timZone='Africa/Bissau'}
+Country{id=94, countryCode='GY', englishName='Guyana',                  timZone='America/Guyana'}
+Country{id=95, countryCode='HK', englishName='Hong Kong',                  timZone='Asia/Hong_Kong'}
+Country{id=97, countryCode='HN', englishName='Honduras',                  timZone='America/Tegucigalpa'}
+Country{id=98, countryCode='HR', englishName='Croatia',                  timZone='Europe/Zagreb'}
+Country{id=99, countryCode='HT', englishName='Haiti',                  timZone='America/Port-au-Prince'}
+Country{id=100, countryCode='HU', englishName='Hungary',                  timZone='Europe/Budapest'}
+Country{id=101, countryCode='ID', englishName='Indonesia',                  timZone='Asia/Jakarta'}
+Country{id=101, countryCode='ID', englishName='Indonesia',                  timZone='Asia/Pontianak'}
+Country{id=101, countryCode='ID', englishName='Indonesia',                  timZone='Asia/Makassar'}
+Country{id=101, countryCode='ID', englishName='Indonesia',                  timZone='Asia/Jayapura'}
+Country{id=102, countryCode='IE', englishName='Ireland',                  timZone='Europe/Dublin'}
+Country{id=103, countryCode='IL', englishName='Israel',                  timZone='Asia/Jerusalem'}
+Country{id=104, countryCode='IM', englishName='Isle of Man',                  timZone='Europe/Isle_of_Man'}
+Country{id=105, countryCode='IN', englishName='India',                  timZone='Asia/Kolkata'}
+Country{id=106, countryCode='IO', englishName='British Indian Ocean Territory',                  timZone='Indian/Chagos'}
+Country{id=107, countryCode='IQ', englishName='Iraq',                  timZone='Asia/Baghdad'}
+Country{id=108, countryCode='IR', englishName='Iran',                  timZone='Asia/Tehran'}
+Country{id=109, countryCode='IS', englishName='Iceland',                  timZone='Atlantic/Reykjavik'}
+Country{id=110, countryCode='IT', englishName='Italy',                  timZone='Europe/Rome'}
+Country{id=111, countryCode='JE', englishName='Jersey',                  timZone='Europe/Jersey'}
+Country{id=112, countryCode='JM', englishName='Jamaica',                  timZone='America/Jamaica'}
+Country{id=113, countryCode='JO', englishName='Jordan',                  timZone='Asia/Amman'}
+Country{id=114, countryCode='JP', englishName='Japan',                  timZone='Asia/Tokyo'}
+Country{id=115, countryCode='KE', englishName='Kenya',                  timZone='Africa/Nairobi'}
+Country{id=116, countryCode='KG', englishName='Kyrgyzstan',                  timZone='Asia/Bishkek'}
+Country{id=117, countryCode='KH', englishName='Cambodia',                  timZone='Asia/Phnom_Penh'}
+Country{id=118, countryCode='KI', englishName='Kiribati',                  timZone='Pacific/Tarawa'}
+Country{id=118, countryCode='KI', englishName='Kiribati',                  timZone='Pacific/Enderbury'}
+Country{id=118, countryCode='KI', englishName='Kiribati',                  timZone='Pacific/Kiritimati'}
+Country{id=119, countryCode='KM', englishName='Comoros',                  timZone='Indian/Comoro'}
+Country{id=120, countryCode='KN', englishName='Saint Kitts and Nevis',                  timZone='America/St_Kitts'}
+Country{id=121, countryCode='KP', englishName='North Korea',                  timZone='Asia/Pyongyang'}
+Country{id=122, countryCode='KR', englishName='South Korea',                  timZone='Asia/Seoul'}
+Country{id=123, countryCode='KW', englishName='Kuwait',                  timZone='Asia/Kuwait'}
+Country{id=124, countryCode='KY', englishName='Cayman Islands',                  timZone='America/Cayman'}
+Country{id=125, countryCode='KZ', englishName='Kazakhstan',                  timZone='Asia/Almaty'}
+Country{id=125, countryCode='KZ', englishName='Kazakhstan',                  timZone='Asia/Qyzylorda'}
+Country{id=125, countryCode='KZ', englishName='Kazakhstan',                  timZone='Asia/Aqtobe'}
+Country{id=125, countryCode='KZ', englishName='Kazakhstan',                  timZone='Asia/Aqtau'}
+Country{id=125, countryCode='KZ', englishName='Kazakhstan',                  timZone='Asia/Atyrau'}
+Country{id=125, countryCode='KZ', englishName='Kazakhstan',                  timZone='Asia/Oral'}
+Country{id=126, countryCode='LA', englishName='Lao People's Democratic Republic',                  timZone='Asia/Vientiane'}
+Country{id=127, countryCode='LB', englishName='Lebanon',                  timZone='Asia/Beirut'}
+Country{id=128, countryCode='LC', englishName='Saint Lucia',                  timZone='America/St_Lucia'}
+Country{id=129, countryCode='LI', englishName='Liechtenstein',                  timZone='Europe/Vaduz'}
+Country{id=130, countryCode='LK', englishName='Sri Lanka',                  timZone='Asia/Colombo'}
+Country{id=131, countryCode='LR', englishName='Liberia',                  timZone='Africa/Monrovia'}
+Country{id=132, countryCode='LS', englishName='Lesotho',                  timZone='Africa/Maseru'}
+Country{id=133, countryCode='LT', englishName='Lithuania',                  timZone='Europe/Vilnius'}
+Country{id=134, countryCode='LU', englishName='Luxembourg',                  timZone='Europe/Luxembourg'}
+Country{id=135, countryCode='LV', englishName='Latvia',                  timZone='Europe/Riga'}
+Country{id=136, countryCode='LY', englishName='Libya',                  timZone='Africa/Tripoli'}
+Country{id=137, countryCode='MA', englishName='Morocco',                  timZone='Africa/Casablanca'}
+Country{id=138, countryCode='MC', englishName='Monaco',                  timZone='Europe/Monaco'}
+Country{id=139, countryCode='MD', englishName='Moldova',                  timZone='Europe/Chisinau'}
+Country{id=140, countryCode='ME', englishName='Montenegro',                  timZone='Europe/Podgorica'}
+Country{id=141, countryCode='MF', englishName='Saint-Martin (France)',                  timZone='America/Marigot'}
+Country{id=142, countryCode='MG', englishName='Madagascar',                  timZone='Indian/Antananarivo'}
+Country{id=143, countryCode='MH', englishName='Marshall Islands',                  timZone='Pacific/Majuro'}
+Country{id=143, countryCode='MH', englishName='Marshall Islands',                  timZone='Pacific/Kwajalein'}
+Country{id=144, countryCode='MK', englishName='Macedonia',                  timZone='Europe/Skopje'}
+Country{id=145, countryCode='ML', englishName='Mali',                  timZone='Africa/Bamako'}
+Country{id=146, countryCode='MM', englishName='Myanmar',                  timZone='Asia/Yangon'}
+Country{id=147, countryCode='MN', englishName='Mongolia',                  timZone='Asia/Ulaanbaatar'}
+Country{id=147, countryCode='MN', englishName='Mongolia',                  timZone='Asia/Hovd'}
+Country{id=147, countryCode='MN', englishName='Mongolia',                  timZone='Asia/Choibalsan'}
+Country{id=148, countryCode='MO', englishName='Macau',                  timZone='Asia/Macau'}
+Country{id=149, countryCode='MP', englishName='Northern Mariana Islands',                  timZone='Pacific/Saipan'}
+Country{id=150, countryCode='MQ', englishName='Martinique',                  timZone='America/Martinique'}
+Country{id=151, countryCode='MR', englishName='Mauritania',                  timZone='Africa/Nouakchott'}
+Country{id=152, countryCode='MS', englishName='Montserrat',                  timZone='America/Montserrat'}
+Country{id=153, countryCode='MT', englishName='Malta',                  timZone='Europe/Malta'}
+Country{id=154, countryCode='MU', englishName='Mauritius',                  timZone='Indian/Mauritius'}
+Country{id=155, countryCode='MV', englishName='Maldives',                  timZone='Indian/Maldives'}
+Country{id=156, countryCode='MW', englishName='Malawi',                  timZone='Africa/Blantyre'}
+Country{id=157, countryCode='MX', englishName='Mexico',                  timZone='America/Mexico_City'}
+Country{id=157, countryCode='MX', englishName='Mexico',                  timZone='America/Cancun'}
+Country{id=157, countryCode='MX', englishName='Mexico',                  timZone='America/Merida'}
+Country{id=157, countryCode='MX', englishName='Mexico',                  timZone='America/Monterrey'}
+Country{id=157, countryCode='MX', englishName='Mexico',                  timZone='America/Matamoros'}
+Country{id=157, countryCode='MX', englishName='Mexico',                  timZone='America/Mazatlan'}
+Country{id=157, countryCode='MX', englishName='Mexico',                  timZone='America/Chihuahua'}
+Country{id=157, countryCode='MX', englishName='Mexico',                  timZone='America/Ojinaga'}
+Country{id=157, countryCode='MX', englishName='Mexico',                  timZone='America/Hermosillo'}
+Country{id=157, countryCode='MX', englishName='Mexico',                  timZone='America/Tijuana'}
+Country{id=157, countryCode='MX', englishName='Mexico',                  timZone='America/Bahia_Banderas'}
+Country{id=158, countryCode='MY', englishName='Malaysia',                  timZone='Asia/Kuala_Lumpur'}
+Country{id=158, countryCode='MY', englishName='Malaysia',                  timZone='Asia/Kuching'}
+Country{id=159, countryCode='MZ', englishName='Mozambique',                  timZone='Africa/Maputo'}
+Country{id=160, countryCode='NA', englishName='Namibia',                  timZone='Africa/Windhoek'}
+Country{id=161, countryCode='NC', englishName='New Caledonia',                  timZone='Pacific/Noumea'}
+Country{id=162, countryCode='NE', englishName='Niger',                  timZone='Africa/Niamey'}
+Country{id=163, countryCode='NF', englishName='Norfolk Island',                  timZone='Pacific/Norfolk'}
+Country{id=164, countryCode='NG', englishName='Nigeria',                  timZone='Africa/Lagos'}
+Country{id=165, countryCode='NI', englishName='Nicaragua',                  timZone='America/Managua'}
+Country{id=166, countryCode='NL', englishName='The Netherlands',                  timZone='Europe/Amsterdam'}
+Country{id=167, countryCode='NO', englishName='Norway',                  timZone='Europe/Oslo'}
+Country{id=168, countryCode='NP', englishName='Nepal',                  timZone='Asia/Kathmandu'}
+Country{id=169, countryCode='NR', englishName='Nauru',                  timZone='Pacific/Nauru'}
+Country{id=170, countryCode='NU', englishName='Niue',                  timZone='Pacific/Niue'}
+Country{id=171, countryCode='NZ', englishName='New Zealand',                  timZone='Pacific/Auckland'}
+Country{id=171, countryCode='NZ', englishName='New Zealand',                  timZone='Pacific/Chatham'}
+Country{id=172, countryCode='OM', englishName='Oman',                  timZone='Asia/Muscat'}
+Country{id=173, countryCode='PA', englishName='Panama',                  timZone='America/Panama'}
+Country{id=174, countryCode='PE', englishName='Peru',                  timZone='America/Lima'}
+Country{id=175, countryCode='PF', englishName='French Polynesia',                  timZone='Pacific/Tahiti'}
+Country{id=175, countryCode='PF', englishName='French Polynesia',                  timZone='Pacific/Marquesas'}
+Country{id=175, countryCode='PF', englishName='French Polynesia',                  timZone='Pacific/Gambier'}
+Country{id=176, countryCode='PG', englishName='Papua New Guinea',                  timZone='Pacific/Port_Moresby'}
+Country{id=176, countryCode='PG', englishName='Papua New Guinea',                  timZone='Pacific/Bougainville'}
+Country{id=177, countryCode='PH', englishName='Philippines',                  timZone='Asia/Manila'}
+Country{id=178, countryCode='PK', englishName='Pakistan',                  timZone='Asia/Karachi'}
+Country{id=179, countryCode='PL', englishName='Poland',                  timZone='Europe/Warsaw'}
+Country{id=180, countryCode='PM', englishName='St. Pierre and Miquelon',                  timZone='America/Miquelon'}
+Country{id=181, countryCode='PN', englishName='Pitcairn',                  timZone='Pacific/Pitcairn'}
+Country{id=182, countryCode='PR', englishName='Puerto Rico',                  timZone='America/Puerto_Rico'}
+Country{id=183, countryCode='PS', englishName='"Palestine',                  timZone='Asia/Gaza'}
+Country{id=183, countryCode='PS', englishName='"Palestine',                  timZone='Asia/Hebron'}
+Country{id=184, countryCode='PT', englishName='Portugal',                  timZone='Europe/Lisbon'}
+Country{id=184, countryCode='PT', englishName='Portugal',                  timZone='Atlantic/Madeira'}
+Country{id=184, countryCode='PT', englishName='Portugal',                  timZone='Atlantic/Azores'}
+Country{id=185, countryCode='PW', englishName='Palau',                  timZone='Pacific/Palau'}
+Country{id=186, countryCode='PY', englishName='Paraguay',                  timZone='America/Asuncion'}
+Country{id=187, countryCode='QA', englishName='Qatar',                  timZone='Asia/Qatar'}
+Country{id=188, countryCode='RE', englishName='R�union',                  timZone='Indian/Reunion'}
+Country{id=189, countryCode='RO', englishName='Romania',                  timZone='Europe/Bucharest'}
+Country{id=190, countryCode='RS', englishName='Serbia',                  timZone='Europe/Belgrade'}
+Country{id=191, countryCode='RU', englishName='Russian Federation',                  timZone='Europe/Kaliningrad'}
+Country{id=191, countryCode='RU', englishName='Russian Federation',                  timZone='Europe/Moscow'}
+Country{id=191, countryCode='RU', englishName='Russian Federation',                  timZone='Europe/Simferopol'}
+Country{id=191, countryCode='RU', englishName='Russian Federation',                  timZone='Europe/Volgograd'}
+Country{id=191, countryCode='RU', englishName='Russian Federation',                  timZone='Europe/Kirov'}
+Country{id=191, countryCode='RU', englishName='Russian Federation',                  timZone='Europe/Astrakhan'}
+Country{id=191, countryCode='RU', englishName='Russian Federation',                  timZone='Europe/Saratov'}
+Country{id=191, countryCode='RU', englishName='Russian Federation',                  timZone='Europe/Ulyanovsk'}
+Country{id=191, countryCode='RU', englishName='Russian Federation',                  timZone='Europe/Samara'}
+Country{id=191, countryCode='RU', englishName='Russian Federation',                  timZone='Asia/Yekaterinburg'}
+Country{id=191, countryCode='RU', englishName='Russian Federation',                  timZone='Asia/Omsk'}
+Country{id=191, countryCode='RU', englishName='Russian Federation',                  timZone='Asia/Novosibirsk'}
+Country{id=191, countryCode='RU', englishName='Russian Federation',                  timZone='Asia/Barnaul'}
+Country{id=191, countryCode='RU', englishName='Russian Federation',                  timZone='Asia/Tomsk'}
+Country{id=191, countryCode='RU', englishName='Russian Federation',                  timZone='Asia/Novokuznetsk'}
+Country{id=191, countryCode='RU', englishName='Russian Federation',                  timZone='Asia/Krasnoyarsk'}
+Country{id=191, countryCode='RU', englishName='Russian Federation',                  timZone='Asia/Irkutsk'}
+Country{id=191, countryCode='RU', englishName='Russian Federation',                  timZone='Asia/Chita'}
+Country{id=191, countryCode='RU', englishName='Russian Federation',                  timZone='Asia/Yakutsk'}
+Country{id=191, countryCode='RU', englishName='Russian Federation',                  timZone='Asia/Khandyga'}
+Country{id=191, countryCode='RU', englishName='Russian Federation',                  timZone='Asia/Vladivostok'}
+Country{id=191, countryCode='RU', englishName='Russian Federation',                  timZone='Asia/Ust-Nera'}
+Country{id=191, countryCode='RU', englishName='Russian Federation',                  timZone='Asia/Magadan'}
+Country{id=191, countryCode='RU', englishName='Russian Federation',                  timZone='Asia/Sakhalin'}
+Country{id=191, countryCode='RU', englishName='Russian Federation',                  timZone='Asia/Srednekolymsk'}
+Country{id=191, countryCode='RU', englishName='Russian Federation',                  timZone='Asia/Kamchatka'}
+Country{id=191, countryCode='RU', englishName='Russian Federation',                  timZone='Asia/Anadyr'}
+Country{id=192, countryCode='RW', englishName='Rwanda',                  timZone='Africa/Kigali'}
+Country{id=193, countryCode='SA', englishName='Saudi Arabia',                  timZone='Asia/Riyadh'}
+Country{id=194, countryCode='SB', englishName='Solomon Islands',                  timZone='Pacific/Guadalcanal'}
+Country{id=195, countryCode='SC', englishName='Seychelles',                  timZone='Indian/Mahe'}
+Country{id=196, countryCode='SD', englishName='Sudan',                  timZone='Africa/Khartoum'}
+Country{id=197, countryCode='SE', englishName='Sweden',                  timZone='Europe/Stockholm'}
+Country{id=198, countryCode='SG', englishName='Singapore',                  timZone='Asia/Singapore'}
+Country{id=199, countryCode='SH', englishName='Saint Helena',                  timZone='Atlantic/St_Helena'}
+Country{id=200, countryCode='SI', englishName='Slovenia',                  timZone='Europe/Ljubljana'}
+Country{id=201, countryCode='SJ', englishName='Svalbard and Jan Mayen Islands',                  timZone='Arctic/Longyearbyen'}
+Country{id=202, countryCode='SK', englishName='Slovakia',                  timZone='Europe/Bratislava'}
+Country{id=203, countryCode='SL', englishName='Sierra Leone',                  timZone='Africa/Freetown'}
+Country{id=204, countryCode='SM', englishName='San Marino',                  timZone='Europe/San_Marino'}
+Country{id=205, countryCode='SN', englishName='Senegal',                  timZone='Africa/Dakar'}
+Country{id=206, countryCode='SO', englishName='Somalia',                  timZone='Africa/Mogadishu'}
+Country{id=207, countryCode='SR', englishName='Suriname',                  timZone='America/Paramaribo'}
+Country{id=208, countryCode='SS', englishName='South Sudan',                  timZone='Africa/Juba'}
+Country{id=209, countryCode='ST', englishName='Sao Tome and Principe',                  timZone='Africa/Sao_Tome'}
+Country{id=210, countryCode='SV', englishName='El Salvador',                  timZone='America/El_Salvador'}
+Country{id=211, countryCode='SX', englishName='Sint Maarten (Dutch part)',                  timZone='America/Lower_Princes'}
+Country{id=212, countryCode='SY', englishName='Syria',                  timZone='Asia/Damascus'}
+Country{id=213, countryCode='SZ', englishName='Swaziland',                  timZone='Africa/Mbabane'}
+Country{id=214, countryCode='TC', englishName='Turks and Caicos Islands',                  timZone='America/Grand_Turk'}
+Country{id=215, countryCode='TD', englishName='Chad',                  timZone='Africa/Ndjamena'}
+Country{id=216, countryCode='TF', englishName='French Southern Territories',                  timZone='Indian/Kerguelen'}
+Country{id=217, countryCode='TG', englishName='Togo',                  timZone='Africa/Lome'}
+Country{id=218, countryCode='TH', englishName='Thailand',                  timZone='Asia/Bangkok'}
+Country{id=219, countryCode='TJ', englishName='Tajikistan',                  timZone='Asia/Dushanbe'}
+Country{id=220, countryCode='TK', englishName='Tokelau',                  timZone='Pacific/Fakaofo'}
+Country{id=221, countryCode='TL', englishName='Timor-Leste',                  timZone='Asia/Dili'}
+Country{id=222, countryCode='TM', englishName='Turkmenistan',                  timZone='Asia/Ashgabat'}
+Country{id=223, countryCode='TN', englishName='Tunisia',                  timZone='Africa/Tunis'}
+Country{id=224, countryCode='TO', englishName='Tonga',                  timZone='Pacific/Tongatapu'}
+Country{id=225, countryCode='TR', englishName='Turkey',                  timZone='Europe/Istanbul'}
+Country{id=226, countryCode='TT', englishName='Trinidad and Tobago',                  timZone='America/Port_of_Spain'}
+Country{id=227, countryCode='TV', englishName='Tuvalu',                  timZone='Pacific/Funafuti'}
+Country{id=228, countryCode='TW', englishName='Taiwan',                  timZone='Asia/Taipei'}
+Country{id=229, countryCode='TZ', englishName='Tanzania',                  timZone='Africa/Dar_es_Salaam'}
+Country{id=230, countryCode='UA', englishName='Ukraine',                  timZone='Europe/Kiev'}
+Country{id=230, countryCode='UA', englishName='Ukraine',                  timZone='Europe/Uzhgorod'}
+Country{id=230, countryCode='UA', englishName='Ukraine',                  timZone='Europe/Zaporozhye'}
+Country{id=231, countryCode='UG', englishName='Uganda',                  timZone='Africa/Kampala'}
+Country{id=232, countryCode='UM', englishName='United States Minor Outlying Islands',                  timZone='Pacific/Midway'}
+Country{id=232, countryCode='UM', englishName='United States Minor Outlying Islands',                  timZone='Pacific/Wake'}
+Country{id=233, countryCode='US', englishName='United States',                  timZone='America/New_York'}
+Country{id=233, countryCode='US', englishName='United States',                  timZone='America/Detroit'}
+Country{id=233, countryCode='US', englishName='United States',                  timZone='America/Kentucky/Louisville'}
+Country{id=233, countryCode='US', englishName='United States',                  timZone='America/Kentucky/Monticello'}
+Country{id=233, countryCode='US', englishName='United States',                  timZone='America/Indiana/Indianapolis'}
+Country{id=233, countryCode='US', englishName='United States',                  timZone='America/Indiana/Vincennes'}
+Country{id=233, countryCode='US', englishName='United States',                  timZone='America/Indiana/Winamac'}
+Country{id=233, countryCode='US', englishName='United States',                  timZone='America/Indiana/Marengo'}
+Country{id=233, countryCode='US', englishName='United States',                  timZone='America/Indiana/Petersburg'}
+Country{id=233, countryCode='US', englishName='United States',                  timZone='America/Indiana/Vevay'}
+Country{id=233, countryCode='US', englishName='United States',                  timZone='America/Chicago'}
+Country{id=233, countryCode='US', englishName='United States',                  timZone='America/Indiana/Tell_City'}
+Country{id=233, countryCode='US', englishName='United States',                  timZone='America/Indiana/Knox'}
+Country{id=233, countryCode='US', englishName='United States',                  timZone='America/Menominee'}
+Country{id=233, countryCode='US', englishName='United States',                  timZone='America/North_Dakota/Center'}
+Country{id=233, countryCode='US', englishName='United States',                  timZone='America/North_Dakota/New_Salem'}
+Country{id=233, countryCode='US', englishName='United States',                  timZone='America/North_Dakota/Beulah'}
+Country{id=233, countryCode='US', englishName='United States',                  timZone='America/Denver'}
+Country{id=233, countryCode='US', englishName='United States',                  timZone='America/Boise'}
+Country{id=233, countryCode='US', englishName='United States',                  timZone='America/Phoenix'}
+Country{id=233, countryCode='US', englishName='United States',                  timZone='America/Los_Angeles'}
+Country{id=233, countryCode='US', englishName='United States',                  timZone='America/Anchorage'}
+Country{id=233, countryCode='US', englishName='United States',                  timZone='America/Juneau'}
+Country{id=233, countryCode='US', englishName='United States',                  timZone='America/Sitka'}
+Country{id=233, countryCode='US', englishName='United States',                  timZone='America/Metlakatla'}
+Country{id=233, countryCode='US', englishName='United States',                  timZone='America/Yakutat'}
+Country{id=233, countryCode='US', englishName='United States',                  timZone='America/Nome'}
+Country{id=233, countryCode='US', englishName='United States',                  timZone='America/Adak'}
+Country{id=233, countryCode='US', englishName='United States',                  timZone='Pacific/Honolulu'}
+Country{id=234, countryCode='UY', englishName='Uruguay',                  timZone='America/Montevideo'}
+Country{id=235, countryCode='UZ', englishName='Uzbekistan',                  timZone='Asia/Samarkand'}
+Country{id=235, countryCode='UZ', englishName='Uzbekistan',                  timZone='Asia/Tashkent'}
+Country{id=236, countryCode='VA', englishName='Vatican',                  timZone='Europe/Vatican'}
+Country{id=237, countryCode='VC', englishName='Saint Vincent and the Grenadines',                  timZone='America/St_Vincent'}
+Country{id=238, countryCode='VE', englishName='Venezuela',                  timZone='America/Caracas'}
+Country{id=239, countryCode='VG', englishName='Virgin Islands (British)',                  timZone='America/Tortola'}
+Country{id=240, countryCode='VI', englishName='Virgin Islands (U.S.)',                  timZone='America/St_Thomas'}
+Country{id=241, countryCode='VN', englishName='Vietnam',                  timZone='Asia/Ho_Chi_Minh'}
+Country{id=242, countryCode='VU', englishName='Vanuatu',                  timZone='Pacific/Efate'}
+Country{id=243, countryCode='WF', englishName='Wallis and Futuna Islands',                  timZone='Pacific/Wallis'}
+Country{id=244, countryCode='WS', englishName='Samoa',                  timZone='Pacific/Apia'}
+Country{id=245, countryCode='YE', englishName='Yemen',                  timZone='Asia/Aden'}
+Country{id=246, countryCode='YT', englishName='Mayotte',                  timZone='Indian/Mayotte'}
+Country{id=247, countryCode='ZA', englishName='South Africa',                  timZone='Africa/Johannesburg'}
+Country{id=248, countryCode='ZM', englishName='Zambia',                  timZone='Africa/Lusaka'}
+Country{id=249, countryCode='ZW', englishName='Zimbabwe',                  timZone='Africa/Harare'}
